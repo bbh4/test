@@ -1,8 +1,7 @@
 
 # Backend Layout
 
-## Character Flow Diagram
-![Character Map to MongoDB](github link of png)
+## Character Flow
 
 ### Stored Procedures
 
@@ -18,7 +17,6 @@ character storage-client
 character retrieval-client
 <br><br>
 ## User Flow Diagram
-![User Map to MongoDB](github link of png)
 
 ### Stored Procedures
 
