@@ -16,7 +16,7 @@ character storage-client
 
 character retrieval-client
 <br><br>
-## User Flow Diagram
+## User Flow
 
 ### Stored Procedures
 
