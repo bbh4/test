@@ -8,7 +8,7 @@
 
 characterStore(stuffID,document)
 * character-schema.json
-                                                              29,1     
+
 characterRetrieve(username)
 * character-schema.json
 
