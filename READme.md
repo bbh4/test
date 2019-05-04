@@ -22,6 +22,7 @@ character retrieval-client
 
 userStore(stuffID,document)
 * userStorage-schema.json
+
 userRetrieve(username)
 * userStorage-schema.json
 
