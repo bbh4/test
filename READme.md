@@ -13,9 +13,9 @@ characterRetrieve(username)
 * character-schema.json
 
 ### User to execute character procedures
-`character storage-client
+character storage-client
 
-`character retrieval-client
+character retrieval-client
 <br><br>
 ## User Flow Diagram
 ![User Map to MongoDB](github link of png)
@@ -28,6 +28,6 @@ userRetrieve(username)
 * userStorage-schema.json
 
 ### User to execute user procedures
-`user information storage-client
+user information storage-client
 
-`user information retrieval-client
+user information retrieval-client
